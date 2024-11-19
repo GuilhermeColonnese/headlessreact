@@ -1,0 +1,35 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: left;
+  background-color: #f9f9f9;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+p {
+  color: #555;
+}
