@@ -126,13 +126,6 @@ REACT_APP_AUTH_PASSWORD=your-password
 
     Deploy the contents of the build folder to your hosting platform.
 
-## Contributing
-
-Contributions are welcome! If you encounter any bugs or have feature requests, please open an issue or submit a pull request.
-License
-
-This project is open-source and available under the MIT License.
-Contact
 
 For questions or support, please contact:
 
